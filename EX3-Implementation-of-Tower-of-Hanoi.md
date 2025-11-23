@@ -15,11 +15,7 @@ To write a JAVA program to implement Tower of Hanoi
     Output the total number of digits. 
 
 ## Program:
-```
-/*
-Program to to count the number of digits in an integer
-Developed by: GANESH PRABHU J
-RegisterNumber: 212223220023
+```py
 
 import java.util.Scanner;
 
@@ -43,7 +39,7 @@ public class CountDigits {
         System.out.println("Number of digits: " + count);
     }
 }
-*/
+
 ```
 
 ## Output:
